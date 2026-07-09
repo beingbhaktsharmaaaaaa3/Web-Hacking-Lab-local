@@ -1,0 +1,17 @@
+{
+  "name": "faultline-labs",
+  "version": "2.0.0",
+  "description": "Faultline — 31 intentionally vulnerable, sandboxed web security training labs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cookie-parser": "^1.4.6",
+    "sql.js": "^1.14.1",
+    "multer": "^2.2.0"
+  }
+}
