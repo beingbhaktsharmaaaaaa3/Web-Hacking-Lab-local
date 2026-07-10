@@ -24,9 +24,10 @@ target apps, one exploit at a time.
 > filesystem or makes real outbound requests. Details in
 > [How the sandboxing works](#how-the-sandboxing-works).
 
-## Quick start
+## Quick start ( windows & Linux Both Runable )
 
 ```bash
+unzip faultline-labs.zip
 cd faultline-labs
 npm install
 npm start
