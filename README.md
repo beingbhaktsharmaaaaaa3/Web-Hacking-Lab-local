@@ -74,11 +74,12 @@ a real URL you can edit directly in the address bar (e.g.
 `/vuln/idor/profile?id=3` → change `3` to `1`). This matches how the actual
 vulnerable apps behave, rather than a simulated console.
 
-## Setup & run
+## Setup & run ( windows & Linux Both Runable )
 
 Requires Node.js 18+.
 
 ```bash
+unzip faultline-labs.zip
 cd faultline-labs
 npm install
 npm start
