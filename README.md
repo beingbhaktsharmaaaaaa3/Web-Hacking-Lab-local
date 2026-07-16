@@ -30,7 +30,7 @@ target apps, one exploit at a time.
 unzip faultline-labs.zip
 cd faultline-labs
 npm install
-npm start
+npm start or npm run dev
 ```
 
 Open **http://localhost:3000** in a desktop browser. That's it — no
